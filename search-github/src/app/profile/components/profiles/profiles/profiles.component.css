@@ -1,0 +1,16 @@
+.card-body img {
+  border-radius: 50%;
+}
+.repo-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  border: 1px solid;
+  border-radius: 5px;
+  color: #fff;
+}
+.form-search {
+  padding: 50px 0;
+}
